@@ -3,7 +3,7 @@
  *
  *  @param <T> the type of the key.
  *
- *  @author W. Masri and YOUR_NAME_HERE
+ *  @author W. Masri and Tomas H. SEGED
  */
 class BST<T extends Comparable<T>> {
 	// **************//
