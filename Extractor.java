@@ -1,3 +1,7 @@
+/**
+@author Tomas H. Seged
+*/
+
 import java.util.StringTokenizer;
 import java.lang.String;
 import java.util.ArrayList;
