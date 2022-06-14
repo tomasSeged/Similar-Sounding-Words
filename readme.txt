@@ -1,4 +1,2 @@
-Tomas H. Seged
-tseged
-G01300111
-Lecture: 004
+A Java program that extracts similar soundings words from a database containing over 200,000 words. 
+Given a group of words, it differentiates the similar sounding ones.
